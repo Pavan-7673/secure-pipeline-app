@@ -1,0 +1,4 @@
+# CVE-2026-23949 - jaraco.context (vendored in setuptools, build-time only, not in request path)
+CVE-2026-23949
+# CVE-2026-24049 - wheel (vendored in setuptools, build-time only, not in request path)
+CVE-2026-24049
